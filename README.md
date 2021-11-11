@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👀
+Mi nombre es Raúl.
+Estoy aprendiendo a programar.💾
+Espero que este viaje me lleve muy lejos.🛸
 <!--
 **RaulD001/RaulD001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
